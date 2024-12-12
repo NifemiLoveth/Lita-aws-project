@@ -40,23 +40,23 @@ On the EC2 dashboard, I clicked on instances, and the button to launch an instan
 
 <img src="images/LITA 6.JPG">
 
-I filled in the name of my EC2 instance, selected Amazon Linux 2 as the AMI, and I created a new key pair.
+I filled in the name of my EC2 instance, selected Amazon Linux 2 as the AMI, and I created a new key pair..
 <img src="images/LITA 7.JPG">
 
 <img src="images/LITA 8.JPG">
 
 <img src="images/LITA 9.JPG">
 
-I selected the key pair i just created and edited my network settings as follows
+I selected the key pair I just created and edited my network settings as follows
 <img src="images/LITA 10.JPG">
  
  I configured my network settings as follows; and selected the security group I created earlier.
 <img src="images/LITA 11.JPG">
 
-I made no changes to Storage and advanced details and clicked on launch instance. 
+I made no changes to Storage and Advanced details and clicked on launch instance. 
 <img src="images/LITA 12.JPG">
 
-Now my instance has beem successfully created aand initialized.
+Now my instance has been successfully created aand initialized.
 <img src="images/LITA 13.JPG">
 
 <img src="images/LITA 14.JPG">
