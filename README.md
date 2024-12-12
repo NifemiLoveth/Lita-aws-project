@@ -37,11 +37,14 @@ Then I clicked on create security group and my security group was successfully c
 ### Step 3
 I launched an EC2 Instance
 On the EC2 dashboard, I clicked on instances, and the button to launch an instance. 
+
 <img src="images/LITA 6.JPG">
 
-I filled in the name of my EC2 intsnce, selected Amazon Linux 2 as the AMI, and I created a new key pair.
+I filled in the name of my EC2 instance, selected Amazon Linux 2 as the AMI, and I created a new key pair.
 <img src="images/LITA 7.JPG">
+
 <img src="images/LITA 8.JPG">
+
 <img src="images/LITA 9.JPG">
 
 I selected the key pair i just created and edited my network settings as follows
