@@ -24,8 +24,11 @@ I navigated to the security group panel and clicked on Security group.
 I choose the option to create a new security group and i edited it as follows;
 <img src="images/LITA 2.JPG">
 I edited the inbound rules to allow SSH and HTTP traffic from anywhere in the world.
-<img src="images/LITA 2.JPG">
-
+<img src="images/LITA 3.JPG">
+And the outbound rule was set to allow all traffic.
+<img src="images/LITA 4.JPG">
+Then I clicked on create security group and my security group was successfully created. 
+<img src="images/LITA 5.JPG">
 
 
 
