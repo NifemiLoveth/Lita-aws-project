@@ -16,6 +16,16 @@ The mission of the project was to develop a solution that meets SmartShop's requ
 ### Step 1
 I set up a Virtual Private Cloud (VPC)
 A virtual private cloud was created to host SmartShop’s Infrastructure. The VPC was divided into public and private subnets across multiple availability zones for redundancy. 
+Then, Internet Gateways were set up to allow internet access to public subnets,and Route Tables were configured to manage traffic flow between subnets and the internet.
+
+### Step 2
+I navigated to the security group panel and clicked on Security group. 
+<img src="images/LITA 1.JPG">
+I choose the option to create a new security group and i edited it as follows;
+<img src="images/LITA 2.JPG">
+I edited the inbound rules to allow SSH and HTTP traffic from anywhere in the world.
+<img src="images/LITA 2.JPG">
+
 
 
 
