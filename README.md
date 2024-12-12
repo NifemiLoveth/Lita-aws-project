@@ -58,19 +58,26 @@ I made no changes to Storage and advanced details and clicked on launch instance
 
 Now my instance has beem successfully created aand initialized.
 <img src="images/LITA 13.JPG">
+
 <img src="images/LITA 14.JPG">
 
 I clicked on connect and selected SSH client.
-Then,I accessed the key pair file i downloaded earlier and opened VS Code through it. 
+Then, I accessed the key pair file I downloaded earlier and opened VS Code through it. 
+
 <img src="images/LITA 15.JPG">
+
 
 I ran the command to ensure that my key is not publicly viewable.
 <img src="images/LITA 16.JPG">
 
+
 I ran the other command to connect to my instance using ssh and the connection was successful. 
 <img src="images/LITA 17.JPG">
 
+
+
 Then I ran the following commands to install apache
+
 <img src="images/LITA 18.JPG">
 
 And my apache installation was successful
@@ -78,6 +85,7 @@ And my apache installation was successful
 
 I went back to the instance dashboard and copied the public IP address of my EC2 instance. 
 <img src="images/LITA 20.JPG">
+
 
 I pasted the link in my browser and the test page was displayed.
 <img src="images/LITA 21.JPG">
